@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/QQwindow">
+        <file>images/cut.png</file>
+        <file>images/file.png</file>
+        <file>images/image.png</file>
+    </qresource>
+</RCC>
