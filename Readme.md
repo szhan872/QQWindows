@@ -11,4 +11,4 @@ QQWindows program simulates a dialog widget that is similar with QQ APP, which i
 - other features: 
 	- send images and open a window for selecting a image from directory
 	- send file and open a window for selecting a file (includes image) from directory
-![image](./QQwindows.png)
+![image](QQwindows.png "dialog")
